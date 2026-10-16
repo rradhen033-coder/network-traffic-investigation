@@ -46,10 +46,10 @@ The objective of this project is to capture and analyze network traffic using Wi
 ![DNS Analysis](screenshots/dns-analysis.png)
 
 ### TCP Analysis
-![TCP Analysis](screenshots/tcp-analysis.png)
+![TCP Analysis](./screenshots/tcp-analysis.png)
 
 ### TLS Analysis
-![TLS Analysis](screenshots/tls-analysis.png)
+![TLS Analysis](./screenshots/tls-analysis.png)
 
 ### Protocol Hierarchy
 ![Protocol Hierarchy](screenshots/protocol-hierarchy.png)
